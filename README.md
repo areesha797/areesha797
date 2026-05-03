@@ -12,11 +12,11 @@ Most people drown in data. I find the story inside it.
 
 I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and Python** — with hands-on experience turning messy, large-scale datasets into dashboards and insights that help people make real decisions.
 
-- 🏢 Completed internship at **Pakistan Aeronautical Complex (PAC), Kamra** — built KPI dashboards and automated reports for operational teams
-- 📊 **10 end-to-end analytics projects** spanning HR, supply chain, e-commerce, retail, and more
-- 🎓 **Top 5% of batch** — BS Computer Science, COMSATS University Islamabad (CGPA 3.50/4.00)
-- 📜 **IBM Certified** — Data Analysis with Python (DA0101EN)
-- 🌍 Open to **remote roles** and **freelance analytics projects**
+- Completed internship at **Pakistan Aeronautical Complex (PAC), Kamra** — built KPI dashboards and automated reports for operational teams
+-  **10 end-to-end analytics projects** spanning HR, supply chain, e-commerce, retail, and more
+-  **Top 5% of batch** — BS Computer Science, COMSATS University Islamabad (CGPA 3.50/4.00)
+-  **IBM Certified** — Data Analysis with Python (DA0101EN)
+-  Open to **remote roles** and **freelance analytics projects**
 
 ---
 
@@ -45,16 +45,16 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 | Project | Tools | Key Result |
 |---|---|---|
-| 🏭 [Supply Chain Dashboard](https://github.com/areesha797/Supply-Chain-Logistics-Dashboard) | Power BI · DAX · Power Query | Analyzed **186.9M revenue**, 3M+ shipments, 7 suppliers |
-| 👥 [HR Analytics Dashboard](https://github.com/areesha797/HR-Analytics-Dashboard) | Power BI · DAX · SQL | Tracked **1,470 employees** across **6 KPIs** |
-| 🐍 [Python EDA Project](https://github.com/areesha797/Python-Data-Analysis-Project-EDA) | Python · Pandas · Seaborn | Cleaned & analyzed **11,252 rows** of customer data |
-| 🎵 [Music Store SQL Analysis](https://github.com/areesha797/music-store-data-analysis-sql) | SQL · PostgreSQL | Queried **11 tables** with **12 complex queries** |
-| 🛒 [E-Commerce Dashboard](https://github.com/areesha797/Analyzed-E-commerce-Sales-Data) | Power BI · DAX · Excel | Analyzed **2,000 rows** — sales, revenue & product trends |
-| 📈 [Super Store Forecasting](https://github.com/areesha797/Power-BI-Sales-Dashboard) | Power BI · Time-Series | **15-day sales forecast** with trend analysis |
-| 🤖 [AI Skills vs Job Risk](https://github.com/areesha797/AI-Skills-VS-Job-Risk-Dashboard) | Power BI · Data Modeling | AI adoption vs automation risk across industries |
-| 🚚 [Food Delivery Dashboard](https://github.com/areesha797/Food-delivery-Dashboard) | Power BI · DAX | Driver performance, delays & revenue breakdown |
-| 💜 [Violence Against Women](https://github.com/areesha797/Breaking-the-Silence-Violence-Against-Women) | Power BI · Maps | Regional trends, KPIs & risk factor analysis |
-| 🌐 [Portfolio Website](https://github.com/areesha797/areesha-portfolio) | HTML · CSS · JavaScript | Live at areesha797.github.io/areesha-portfolio |
+| [Supply Chain Dashboard](https://github.com/areesha797/Supply-Chain-Logistics-Dashboard) | Power BI · DAX · Power Query | Analyzed **186.9M revenue**, 3M+ shipments, 7 suppliers |
+|  [HR Analytics Dashboard](https://github.com/areesha797/HR-Analytics-Dashboard) | Power BI · DAX · SQL | Tracked **1,470 employees** across **6 KPIs** |
+|  [Python EDA Project](https://github.com/areesha797/Python-Data-Analysis-Project-EDA) | Python · Pandas · Seaborn | Cleaned & analyzed **11,252 rows** of customer data |
+|  [Music Store SQL Analysis](https://github.com/areesha797/music-store-data-analysis-sql) | SQL · PostgreSQL | Queried **11 tables** with **12 complex queries** |
+|  [E-Commerce Dashboard](https://github.com/areesha797/Analyzed-E-commerce-Sales-Data) | Power BI · DAX · Excel | Analyzed **2,000 rows** — sales, revenue & product trends |
+|  [Super Store Forecasting](https://github.com/areesha797/Power-BI-Sales-Dashboard) | Power BI · Time-Series | **15-day sales forecast** with trend analysis |
+|  [AI Skills vs Job Risk](https://github.com/areesha797/AI-Skills-VS-Job-Risk-Dashboard) | Power BI · Data Modeling | AI adoption vs automation risk across industries |
+|  [Food Delivery Dashboard](https://github.com/areesha797/Food-delivery-Dashboard) | Power BI · DAX | Driver performance, delays & revenue breakdown |
+|  [Violence Against Women](https://github.com/areesha797/Breaking-the-Silence-Violence-Against-Women) | Power BI · Maps | Regional trends, KPIs & risk factor analysis |
+|  [Portfolio Website](https://github.com/areesha797/areesha-portfolio) | HTML · CSS · JavaScript | Live at areesha797.github.io/areesha-portfolio |
 
 ---
 
@@ -76,15 +76,15 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
-- 📊 Expanding my Power BI skills with advanced DAX patterns and data modeling
-- 🐍 Building more Python EDA projects with Scikit-learn for predictive analytics
-- 🌍 Looking for **remote Data Analyst roles** and **freelance dashboard projects**
+-  Expanding my Power BI skills with advanced DAX patterns and data modeling
+-  Building more Python EDA projects with Scikit-learn for predictive analytics
+-  Looking for **remote Data Analyst roles** and **freelance dashboard projects**
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
