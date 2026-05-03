@@ -20,7 +20,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
