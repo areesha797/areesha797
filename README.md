@@ -20,7 +20,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 📊 Projects That Delivered Real Results
+##  Projects That Delivered Real Results
 
 | Project | Tools | Key Result |
 |---|---|---|
@@ -58,7 +58,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
