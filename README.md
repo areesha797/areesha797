@@ -41,7 +41,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 
 ---
 
-## 📊 Projects That Delivered Real Results
+## Projects That Delivered Real Results
 
 | Project | Tools | Key Result |
 |---|---|---|
@@ -54,7 +54,7 @@ I'm a **Data Analyst** based in Pakistan, specializing in **Power BI, SQL, and P
 |  [AI Skills vs Job Risk](https://github.com/areesha797/AI-Skills-VS-Job-Risk-Dashboard) | Power BI · Data Modeling | AI adoption vs automation risk across industries |
 |  [Food Delivery Dashboard](https://github.com/areesha797/Food-delivery-Dashboard) | Power BI · DAX | Driver performance, delays & revenue breakdown |
 |  [Violence Against Women](https://github.com/areesha797/Breaking-the-Silence-Violence-Against-Women) | Power BI · Maps | Regional trends, KPIs & risk factor analysis |
-|  [Vrinda Store Annual Sales Dashboard](https://github.com/areesha797/Vrinda-Store-Annual-Report) | Excel · Pivot Tables · Slicers | Women 30–49 in Maharashtra, Karnataka & UP = highest value segment · Amazon 35% top channel |
+|  [ Store Annual Sales Dashboard](https://github.com/areesha797/Vrinda-Store-Annual-Report) | Excel · Pivot Tables · Slicers | Women 30–49 in Maharashtra, Karnataka & UP = highest value segment · Amazon 35% top channel |
 |  [Portfolio Website](https://github.com/areesha797/areesha-portfolio) | HTML · CSS · JavaScript | Live at areesha797.github.io/areesha-portfolio |
 
 ---
